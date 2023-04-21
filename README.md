@@ -15,7 +15,7 @@ The Square class should be a subclass of Rectangle. When a Square object is crea
 * 'set_width': Sets both the width and height to the same value
 * 'set_height': Sets both the width and height to the same value
 #### Usage example
-'''
+
 rect = shape_calculator.Rectangle(10, 5)
 print(rect.get_area())
 rect.set_height(3)
@@ -52,5 +52,5 @@ Square(side=4)
 ****
 
 8
-'''
+
 The unit tests for this project are in test_module.py.
