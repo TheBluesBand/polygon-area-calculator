@@ -1,6 +1,6 @@
 # Polygon Area Calculator
 ## Assignment
-In this assignment I used object oriented programming to create a Rectangle class and a Square class. The Square class is a subclass of Rectangle and inherits its methods and attributes.
+In this assignment I used object oriented programming to create a Rectangle class and a Square class. The Square class is a subclass of Rectangle and inherits its methods and attributes using Inheritance (A common object orientated practice/method).
 ### Rectangle Class
 * 'set_width': Sets the width
 * 'set_height': Sets the height
